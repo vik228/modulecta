@@ -1,0 +1,33 @@
+alembic
+asyncpg==0.29.0
+boto3==1.34.0
+camelot-py[cv]==0.10.1
+
+# Background Tasks
+celery==5.3.4
+
+dotenv
+# API Framework
+fastapi==0.104.1
+
+# AI/ML
+openai==1.3.7
+opencv-python==4.8.1.78
+pdf2image==1.16.3
+pdfplumber==0.10.3
+
+# Image Processing
+Pillow==10.1.0
+
+# PDF Processing
+PyMuPDF==1.23.9
+
+# OCR
+pytesseract==0.3.10
+redis==5.0.1
+
+# Database & Storage
+sqlalchemy==2.0.23
+tabula-py==2.8.2
+transformers==4.36.0
+uvicorn==0.24.0
